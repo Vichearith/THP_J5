@@ -1,4 +1,4 @@
-# The Hacking Project - Day 5
+# The Hacking Project - Semaine 1 - Vendredi
 
 ## Exercice 0 - Journalistes
 
